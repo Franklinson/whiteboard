@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-13T22:46:22.353Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.76" etag="HCxsZiGgGF3Fdxgn6DOd" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-13T23:33:28.074Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.76" etag="zuyz4qSEBxIw-zcHgdZF" version="21.7.5" type="github">
   <diagram name="Page-1" id="3Gsh2670xP5e92RrSAov">
-    <mxGraphModel dx="2239" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1400" math="0" shadow="0">
+    <mxGraphModel dx="2339" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1400" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -78,6 +78,39 @@
         </mxCell>
         <mxCell id="ZYZ0SlPtpHJBqJkjP51O-26" value="TLD SERVER" style="rounded=1;arcSize=9;align=left;spacingLeft=5;strokeColor=#BAC8D3;html=1;strokeWidth=2;fontSize=12;labelBackgroundColor=none;fillColor=#09555B;fontColor=#EEEEEE;" vertex="1" parent="1">
           <mxGeometry x="400" y="380" width="100" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYZ0SlPtpHJBqJkjP51O-30" value="&lt;font style=&quot;background-color: rgb(255, 255, 255);&quot; color=&quot;#000000&quot;&gt;Client Computer&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#EEEEEE;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="740" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYZ0SlPtpHJBqJkjP51O-31" value="&lt;font color=&quot;#000000&quot;&gt;www.google.com/&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#EEEEEE;" vertex="1" parent="1">
+          <mxGeometry x="80" y="710" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYZ0SlPtpHJBqJkjP51O-33" value="&lt;font color=&quot;#000000&quot;&gt;IP ADDRESS&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#EEEEEE;rotation=-20;" vertex="1" parent="1">
+          <mxGeometry x="410" y="605" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYZ0SlPtpHJBqJkjP51O-34" value="&lt;font color=&quot;#000000&quot;&gt;IP ADDRESS&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#EEEEEE;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="55" y="660" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYZ0SlPtpHJBqJkjP51O-35" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#0B4D6A;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-80" y="783" as="sourcePoint" />
+            <mxPoint x="-80" y="883" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZYZ0SlPtpHJBqJkjP51O-36" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#0B4D6A;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-55.67" y="880" as="sourcePoint" />
+            <mxPoint x="-55.67" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZYZ0SlPtpHJBqJkjP51O-37" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server_storage;" vertex="1" parent="1">
+          <mxGeometry x="-105" y="910" width="105" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYZ0SlPtpHJBqJkjP51O-38" value="SERVERS" style="rounded=1;arcSize=9;align=left;spacingLeft=5;strokeColor=#BAC8D3;html=1;strokeWidth=2;fontSize=12;labelBackgroundColor=none;fillColor=#09555B;fontColor=#EEEEEE;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="1030" width="80" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYZ0SlPtpHJBqJkjP51O-39" value="&lt;font color=&quot;#000000&quot;&gt;IP ADDRESS&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#EEEEEE;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="820" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
