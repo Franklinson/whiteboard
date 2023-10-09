@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-09T15:43:48.648Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.47" etag="38KJwEWKoJBS27qWIWzG" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-09T16:46:18.180Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.47" etag="Y9VsS8d4vSFYw0dnfRHD" version="22.0.4" type="github">
   <diagram name="Page-1" id="9MXD3yJbQ86IwgR90sJ_">
     <mxGraphModel dx="1042" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
             <mxPoint x="650" y="320.1" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UFJ58yG_0o8hw0KITlTF-5" value="Apps" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.apps;" vertex="1" parent="1">
+        <mxCell id="UFJ58yG_0o8hw0KITlTF-5" value="Apps" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#000099;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.apps;" vertex="1" parent="1">
           <mxGeometry x="480" y="290" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UFJ58yG_0o8hw0KITlTF-8" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.mysql_db_instance;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="1">
